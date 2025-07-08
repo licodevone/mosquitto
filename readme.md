@@ -4,11 +4,7 @@
 
 <div align="center">
   A IOT Engineer | C/C++ | Java | Javascript 
-  <br><br>
-  <--!
-  <img src="https://img.shields.io/badge/mg.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++  /> | <img src="https://img.shields.io/badge/img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white  /> |  <img src="https://img.shields.io/badge/shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square  />
-  <br>
-   --!/>                                                                                                                                                                           
+  <br><br>                                                                                                                                                                          
 </div>
 
 <div align="center">
